@@ -48,6 +48,5 @@ def TruncatablePrimes():
     return sum(final_list)
 
 
-#print(Truncating(1009))
+
 print(TruncatablePrimes())
-#print(isPrime(0))
